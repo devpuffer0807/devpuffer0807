@@ -1,13 +1,13 @@
-<!--Night Owl image-->
-<div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
-</div>
-
 ![Coding Gif](https://github.com/m-mdy-m/m-mdy-m/blob/main/Life.js.gif)
 <div>
   <p align="center">
     <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=40&center=true&vCenter=true&width=800&height=100&lines=Code+is+Life..&hearts;++;Self-taught+Web+Developer,;Computer+Engineering+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
   </p>
+</div>
+
+<!--Night Owl image-->
+<div>
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
 
 <!--Header Name-->
