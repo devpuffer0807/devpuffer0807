@@ -53,14 +53,6 @@
         </a>
       </p>
     </td>
-    <td width="50%">
-      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/devpuffer0807">
-          <img align="center" src="https://streak-stats.demolab.com?user=devpuffer0807&theme=nightowl" alt="Streak Stats" />
-        </a>
-      </p>
-    </td>
   </tr>
   <tr>
     <td width="50%">
