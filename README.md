@@ -53,21 +53,11 @@
         </a>
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
         <a href="https://github.com/devpuffer0807/binance_token_signal">
           <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=devpuffer0807&repo=binance_token_signal&theme=nightowl&show_owner=true" alt="binance_token_signal" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/devpuffer0807">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=devpuffer0807&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
         </a>
       </p>
     </td>
