@@ -22,7 +22,6 @@
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - ✍ I write technical blogs.
 - ❤ Contributing to Open Source.
-- 💻 Visit my [Portfolio](https://devpuffer0807.github.io) for more details about me.
 <!--End Intro-->
 
 <!--Profile Count Badge-->
